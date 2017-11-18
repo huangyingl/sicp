@@ -38,7 +38,7 @@ There are two things to be aware of let constructs
   Here, if x is taken as 5 in the sum, it is still going to be 3 in the
   body of `let` construct.
 
-* Another thing to be noticed is that variables withing the let
+* Another thing to be noticed is that variables within the let
   procedure are calculated outside of the let body and thus are defined
   in terms of arguments outside the `let` body. For example: 
 
